@@ -40,7 +40,6 @@ dependencies:
   cached_network_image: ^3.2.3
   palette_generator: ^0.3.3+2
   flutter_dnd: ^0.1.4+1
-  awesome_bottom_bar: 1.2.2
   marquee: ^2.2.3
 
 flutter_icons:

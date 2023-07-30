@@ -3,13 +3,12 @@
 import 'dart:async';
 import 'dart:collection';
 import 'dart:io';
-import 'package:awesome_bottom_bar/awesome_bottom_bar.dart';
-import 'package:awesome_bottom_bar/widgets/inspired/inspired.dart';
-// import 'package:convex_bottom_bar/convex_bottom_bar.dart';
 import 'package:get/get.dart';
 import 'package:healingapp/app/modules/audios/bindings/audios_binding.dart';
 import 'package:healingapp/app/modules/stories/views/stories_view.dart';
 import 'package:healingapp/app/routes/app_pages.dart';
+import 'package:healingapp/awesomebottomnav/awesome_bottom_bar.dart';
+import 'package:healingapp/awesomebottomnav/widgets/inspired/inspired.dart';
 import 'package:healingapp/home/controllers/home_controller.dart';
 import 'package:healingapp/home/views/widget/brokenlink.dart';
 import 'package:healingapp/home/views/widget/nativehelper.dart';
