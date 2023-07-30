@@ -46,8 +46,8 @@ flutter_icons:
   android: "ic_launcher"
   ios: true
   remove_alpha_ios:
-  color: "#ffffff"
-  image_path: "assets/images/i.jpeg"
+  color: "#102e37"
+  image_path: "assets/images/play_store_512.png"
   min_sdk_android: 21 # android min sdk min:16, default 21
 
 
